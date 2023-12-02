@@ -1,5 +1,5 @@
 {
-  "name": "Module2_Demo2_StateMachineFlowDemo",
+  "name": "Module2_Demo3_StateMachineFlowDemo",
   "projectId": "35997b83-6355-4095-a218-edc43ff736e3",
   "description": "In this demo, you will create a process in UiPath using the State Machine workflow. In this process, you will ask for inputs from user to guess a number and it will be matched with a number that is randomly generated inside the process. A message will be displayed based on the result of matching.",
   "main": "Main.xaml",
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
