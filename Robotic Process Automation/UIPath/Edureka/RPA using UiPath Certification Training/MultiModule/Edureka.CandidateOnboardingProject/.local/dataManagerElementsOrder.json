@@ -15,6 +15,57 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "DownloadCandidateMaster.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "blnFileExists&Sequence_1",
+        "InputFolderPath&Sequence_1",
+        "FromEmail&Sequence_1",
+        "MockarooWebURL&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "KillProcess.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Init.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendMail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ErrorHandler.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "answer&Sequence_1",
+        "retry&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "errorInfo",
+        "result"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
